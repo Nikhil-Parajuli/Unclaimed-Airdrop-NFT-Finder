@@ -1,32 +1,77 @@
-🚀 Unclaimed Airdrop & NFT Finder - Chrome Extension
-🌟 Overview
-Missed out on valuable airdrops and NFTs? Our Unclaimed Airdrop & NFT Finder Chrome Extension ensures you never leave free rewards unclaimed! This powerful tool scans your wallets across multiple chains, finds unclaimed airdrops and NFTs, and notifies you so you can claim them before they expire.
-🔥 Features
-✅ Multi-Chain Support - Scan multiple blockchain networks for unclaimed airdrops and NFTs. ✅ Automated Wallet Scanning - Connects securely to your wallet and identifies pending claims. ✅ Claim Notifications - Real-time alerts when new airdrops or NFTs are available. ✅ Dashboard Overview - View estimated earnings and direct claim links in one place. ✅ Airdrop Aggregator Integration - Seamlessly integrates with popular airdrop tracking platforms. ✅ Estimated Value Calculator - Get an idea of how much your unclaimed rewards are worth.
-🎯 How It Works
-Install the Chrome Extension from the Chrome Web Store (coming soon!).
-Connect Your Wallet - Supports major wallets like MetaMask.
-Scan for Unclaimed Rewards - The extension automatically detects any unclaimed airdrops or NFTs.
-Claim Your Rewards - Follow provided links to claim pages and secure your assets!
-📌 Installation
-Clone this repository:
- git clone https://github.com/Nikhil-Parajuli/Unclaimed-Airdrop-NFT-Finder.git
+🪂 Unclaimed Airdrop & NFT Finder – Chrome Extension
 
+Never miss an airdrop or NFT again! This extension scans your wallets across multiple chains and alerts you about unclaimed rewards.
+
+ 
+ 
+✨ Features
+
+✅ Multi-Chain Support – Scan wallets across different blockchains.
+
+ ✅ Auto Wallet Scanning – Detects unclaimed airdrops and NFTs.
+ 
+ ✅ Real-Time Notifications – Get instant alerts for claims.
+ 
+ ✅ Dashboard View – See estimated values & direct claim links.
+ 
+ ✅ Airdrop Aggregator Integration – Fetches the latest airdrops.
+
+ 
+
+🚀 How It Works
+
+1️⃣ Install the Extension (coming soon to Chrome Web Store).
+
+ 2️⃣ Connect Your Wallet (MetaMask, Trust Wallet, etc.).
+ 
+ 3️⃣ Scan for Unclaimed Rewards with one click.
+ 
+ 4️⃣ Claim Your Airdrops & NFTs through direct links.
+
+ 
+
+🛠 Installation (Developer Mode)
+
+git clone git@github.com:Nikhil-Parajuli/Unclaimed-Airdrop-NFT-Finder.git 
 
 Open Chrome and go to chrome://extensions/.
-Enable Developer Mode (top right corner).
-Click Load Unpacked and select the project folder.
-Start finding your unclaimed airdrops and NFTs!
-📷 Screenshots (Coming Soon)
-Stay tuned for a preview of how the extension works!
-🚀 Roadmap
-🔹 Add support for more blockchain networks. 🔹 Improve accuracy of claim detection. 🔹 Enhance UI/UX for a seamless experience. 🔹 Introduce mobile wallet support.
-💡 Why Use This Extension?
-🔹 Maximize Your Crypto Earnings - Don’t let free crypto go unclaimed. 🔹 Save Time & Effort - No need to manually check multiple platforms. 🔹 Stay Updated - Get instant notifications on new opportunities.
-🤝 Contributing
-We welcome contributions! Feel free to fork this repository, create a new branch, and submit a pull request.
-📩 Contact
-Have questions or suggestions? Reach out via nikhilparajuli99@gmail.com.
 
-⚡ Never miss a free airdrop or NFT again! Install Unclaimed Airdrop & NFT Finder today. ⚡
+Enable Developer Mode (top right).
+
+Click Load Unpacked and select the cloned folder.
+
+Start scanning for unclaimed assets!
+
+
+
+🎯 Roadmap
+
+🔹 Support for more blockchains.
+
+ 🔹 Improved claim detection accuracy.
+ 
+ 🔹 Enhanced UI/UX experience.
+ 
+ 🔹 Mobile wallet integration.
+
+📸 Screenshots
+
+(Coming soon – preview how the extension works!)
+
+
+🤝 Contributing
+
+We welcome contributions! Feel free to fork, branch, and submit a PR.
+
+
+📩 Contact
+
+For queries, reach out via nikhilparajuli99@gmail.com.
+
+
+
+⚡ Don't let free crypto slip away! Try Unclaimed Airdrop & NFT Finder now. ⚡
+
+This version will look clean and structured when pasted into GitHub. Let me know if you want any tweaks! 🚀
+
 
